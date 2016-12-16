@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{305BB985-9623-8BC5-A131-0E75EFCBD0C7}") = "Acerte o Fantasma", "Assembly-CSharp.csproj", "{399B3E56-52FF-A535-CDA4-0135132D5A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399B3E56-52FF-A535-CDA4-0135132D5A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399B3E56-52FF-A535-CDA4-0135132D5A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399B3E56-52FF-A535-CDA4-0135132D5A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399B3E56-52FF-A535-CDA4-0135132D5A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
